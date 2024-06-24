@@ -1,0 +1,51 @@
+customer_id,name,email,age,gender,country,signup_date
+1,Regina Knight,brianarnold@yahoo.com,45,Male,Tokelau,2021-01-03
+2,Stephen Johnson,ccraig@vargas-ayala.info,39,Male,Netherlands,2021-01-10
+3,Alice Collier,yrobinson@page.org,57,Female,Sao Tome and Principe,2021-01-17
+4,Michelle Doyle,tinayoung@yahoo.com,57,Male,Saint Martin,2021-01-24
+5,Douglas Spencer,lryan@moore.com,29,Female,Moldova,2021-01-31
+6,Christopher Smith,stanleymoore@yahoo.com,40,Male,Zimbabwe,2021-02-07
+7,David Phillips,matthewhuffman@hotmail.com,48,Male,Palestinian Territory,2021-02-14
+8,Jason Hayes,creynolds@gmail.com,35,Female,Bosnia and Herzegovina,2021-02-21
+9,Thomas Keller,asmith@stewart-noble.com,24,Male,Cayman Islands,2021-02-28
+10,Tamara Wilson,znelson@gmail.com,25,Male,Bolivia,2021-03-07
+11,Douglas Mayer,robertsmith@beard.biz,36,Male,Chile,2021-03-14
+12,Ralph Neal,mortonjames@davis-pollard.com,46,Male,Micronesia,2021-03-21
+13,Tanya Price,jeffrey17@yahoo.com,61,Male,Myanmar,2021-03-28
+14,Alyssa Ramos,katiewoods@white-cooper.com,37,Male,Honduras,2021-04-04
+15,Shannon Burgess,gutierrezcatherine@yahoo.com,67,Male,Mauritania,2021-04-11
+16,Mary Reyes,mclaughlindaniel@hotmail.com,59,Male,San Marino,2021-04-18
+17,Jacob Khan,mcguirebrandon@pacheco.com,47,Male,Christmas Island,2021-04-25
+18,Timothy Campbell,stephanie13@holt.info,64,Female,Austria,2021-05-02
+19,Robert Brown,rosslaura@wood-mayer.net,39,Male,British Virgin Islands,2021-05-09
+20,Kimberly Johnson,jean66@yahoo.com,27,Female,Luxembourg,2021-05-16
+21,Nicole Bryant,tina47@farmer.com,43,Female,San Marino,2021-05-23
+22,Krystal Perez,olsonwendy@lam-lee.net,68,Male,Finland,2021-05-30
+23,Heidi Fry,websterpaul@gmail.com,50,Female,Liechtenstein,2021-06-06
+24,Andrew Brennan,xgreene@gmail.com,45,Female,Hungary,2021-06-13
+25,Anthony Morris,adriennerussell@yahoo.com,27,Female,Lithuania,2021-06-20
+26,Cory Andrade,sarah48@white.com,46,Male,Isle of Man,2021-06-27
+27,Tammy Walker,asanchez@yahoo.com,61,Male,Dominican Republic,2021-07-04
+28,Brian Patel,annarogers@gmail.com,35,Female,Liberia,2021-07-11
+29,Jacob Lewis,spatrick@yahoo.com,59,Female,Antarctica (the territory South of 60 deg S),2021-07-18
+30,Christopher Velasquez,thomascooper@graves-sherman.com,18,Female,Peru,2021-07-25
+31,Abigail Sanchez,mooremonica@yahoo.com,40,Female,Bouvet Island (Bouvetoya),2021-08-01
+32,Morgan Orozco,uvang@yahoo.com,34,Male,Bolivia,2021-08-08
+33,Timothy Morris,matthew18@vasquez-bailey.com,60,Female,Rwanda,2021-08-15
+34,Michael Hubbard,dustin05@yahoo.com,54,Male,Switzerland,2021-08-22
+35,Dr. Joshua Moore,jessicalee@parker.com,48,Female,Jamaica,2021-08-29
+36,Randy Diaz,sblanchard@mcintyre.net,42,Male,Jordan,2021-09-05
+37,Scott Lee,pcampbell@martinez.com,21,Male,French Guiana,2021-09-12
+38,Tony Taylor,zdodson@glover-hernandez.net,69,Male,Bahamas,2021-09-19
+39,Felicia Hansen,njones@hotmail.com,26,Male,Sri Lanka,2021-09-26
+40,Autumn Chen,hodgesstacy@morgan.com,45,Female,United States Minor Outlying Islands,2021-10-03
+41,Megan Taylor,nelsonjavier@gmail.com,47,Female,Vanuatu,2021-10-10
+42,Allison Robles,anthonydickerson@yahoo.com,64,Female,Poland,2021-10-17
+43,Jacob Gonzalez,rossrobert@gmail.com,41,Female,Macedonia,2021-10-24
+44,Benjamin Hickman,toddgarza@gmail.com,50,Female,Saint Barthelemy,2021-10-31
+45,Laura Schroeder,adamseddie@mayo.com,37,Male,Nauru,2021-11-07
+46,Shawn Vaughn,sarah00@hotmail.com,26,Female,American Samoa,2021-11-14
+47,Cheryl Herrera,moorekyle@yahoo.com,25,Male,Marshall Islands,2021-11-21
+48,Dustin Hurst,orichards@hotmail.com,41,Female,Andorra,2021-11-28
+49,Mrs. Jennifer Rice MD,kenneth81@bell-bell.info,31,Male,Burundi,2021-12-05
+50,Linda Delgado,hrodriguez@garcia.org,35,Female,Equatorial Guinea,2021-12-12
